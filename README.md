@@ -1,4 +1,3 @@
-## Hello there, 👋! My name is Subhan Mahat and I'm a Full Stack Software Engineer, from Pune, India.
 
 <!--
 **subhan-72/subhan-72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,9 +22,9 @@ Here are some ideas to get you started:
   </ul>
 </div>
 <!--- snake -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake">
-</div>
+</div> -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
